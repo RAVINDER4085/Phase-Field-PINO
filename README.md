@@ -5,7 +5,7 @@ In this study, we explore the application of the Fourier Neural Operator method 
 FNO and PINO are deep learning methods that are able to learn a resolution-invariant solution operator for a family of time-dependent parametric PDEs
 
 ## Requirements:
-we used NVIDIA modulus to solve equations.
+We used NVIDIA Modulus v22.07 to solve equations.
 Requirements can be seen below or in Modulus Documentation
 
 link: https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/getting_started/installation.html
