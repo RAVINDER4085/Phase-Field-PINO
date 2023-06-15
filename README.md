@@ -6,8 +6,8 @@ FNO and PINO are deep learning methods that are able to learn a resolution-invar
 
 # Requirements:
 we used NVIDIA modulus to solve equations.
-Requirements can be seen below or in Mosulus Documentation
-Doeumentation link: https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/getting_started/installation.html
+Requirements can be seen below or in Mosulus Documentation \\
+link: https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/getting_started/installation.html
 
 ## System Requirements
 ### Operating System  
