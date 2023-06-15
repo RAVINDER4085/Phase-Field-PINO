@@ -1,1 +1,1 @@
-# Phase-Field-PINO
+# Phase-Field-Modelling FNO and PINO
